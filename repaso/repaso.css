@@ -1,0 +1,35 @@
+*{
+  font-family: "Arial";
+}
+
+body{
+  background-color: pink;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+.cajita {
+  width: 50%;
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid deeppink;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
+input[type="button"]{
+  border:none;
+  background-color: deeppink;
+  border-radius: 4px;
+  color:white;
+}
+
+input[type="button"]:active{
+  background-color: pink;
+}
