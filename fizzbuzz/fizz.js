@@ -1,5 +1,3 @@
-alert('Hola mirella, ya puedo modificar tu codigo');
-
 var numeros = 100;
 var divisible = false;
 
